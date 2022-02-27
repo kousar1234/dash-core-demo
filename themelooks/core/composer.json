@@ -1,0 +1,19 @@
+{
+    "name": "themelooks/core",
+    "description": "Thenelooks core",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "themelooks",
+            "email": "themelooks.info@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Themelooks\\Core\\": "src/"
+        }
+    }
+}
